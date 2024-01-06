@@ -1,0 +1,96 @@
+
+.commImage {
+    width: 100%;
+    background-image: url('/images/communityService.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+.community{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ebe9cf;    
+}
+
+.community h1{
+    text-align:center;
+}
+
+.DescAndVid{
+    display: flex;
+}
+
+.CD-Video{
+    width: 500px;
+    height: 281px;
+    padding-left: 40px;
+    /* width="560"height="315" */
+}
+
+.Clairmont-Description{
+    width: 700px;
+    font-size: medium;
+    padding-left: 10px;
+}
+
+.ONNABody{
+    display: flex;
+    margin-top: 10px;
+}
+
+.ONNADesc{
+    width: 700px;
+    font-size: medium;
+    padding-left: 10px;
+}
+
+.ONNAList{
+    padding-left: 15px;
+    
+}
+
+.ONNAPictures{
+    width: 500px;
+    height: 281px;
+    padding-left: 50px;
+    padding-right: 0px;
+
+}
+
+.ONNAPicture{
+    width: 400px;
+    height: 201px;
+    padding-right: 50px;
+    
+}
+
+
+.MapPicture {
+    width: 400px;
+    height: 201px;
+    padding-right: 50px;
+
+}
+
+.imgCaption{
+    text-align: left;    
+    padding-right: 90px;
+    
+}
+
+.CDPictures {
+    width: 500px;
+    height: 281px;
+    padding-left: 40px;
+
+}
+
+.CDPicture {
+    width: 460px;
+    height: 201px;
+    padding-right: 40px;
+
+}

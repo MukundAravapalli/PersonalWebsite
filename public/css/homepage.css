@@ -1,0 +1,79 @@
+
+.IntroImage{
+    width: 100%;
+    background-image: url('/images/resizedSpaceCollage.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    text-align: center;
+}
+
+
+
+#introQuote{
+    padding-top: 18%;
+    padding-left: 8%;
+    padding-right: 8%;
+    text-align: center;
+}
+
+.MainProfile{
+    text-align: left;
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+
+
+#profilephoto{
+    margin-top: 20px;
+    height: 400px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+
+#profile-heading{
+    width: 600px;
+}
+
+#profileDesc{
+    width:600px;
+}
+
+.text-box{
+    padding-left: 27px;
+}
+
+.Education{
+    display: block;
+}
+
+
+.lists{
+    padding-left: 13px;
+}
+
+.Skills{
+    padding-left: 80px;
+}
+.skill-list{
+    font-size: medium;
+    padding-left: 15px;
+}
+
+.proj-involvement{
+    display: flex;
+    align-content: center;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 250px;
+}
+
+.bottom-links{
+    text-decoration: none;
+    color:#ebe9cf;
+    margin-left: 100px;
+    margin-right: 100px;
+}
